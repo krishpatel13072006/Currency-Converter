@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+
+}
+.container{
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    box-shadow: 2px 2px 1rem .3rem black;
+}
+
+.amount{
+    margin:1.5rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.5rem;
+}
+
+.amount>input{
+    padding: .2rem 1rem;
+    border-radius: .5rem;
+    font-size: 1.1rem;
+    text-align: left;
+}
+
+.dropdown{
+     display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 3rem;
+    margin: 1rem 0;
+}
+
+
+.from{
+    margin: 1.5rem 0;
+    gap: 1rem;
+    font-size: 1.5rem;
+}
+
+
+.to{
+    gap: 0.5rem;
+    font-size: 1.2rem;
+}
+select{
+    font-size: 1rem;
+}
+.select-container{
+     display: flex;
+     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .1rem;
+    /* border: 1px solid black; */
+}
+
+i{
+    font-size: 1.5rem;margin-top: .5rem;
+    color: #B197FC;
+}
+.msg{
+    font-size: 1.2rem;
+}
+
+#btn{
+    margin: 1rem 0;
+    font-size: 1.2rem;
+    padding:1rem 4rem;
+    border-radius: 1rem;
+    border: none;
+      box-shadow: 2px 2px 1rem black;
+      color: white;
+      background-color: rgb(165, 28, 136);
+      box-sizing: border-box;
+      cursor: pointer;
+}
