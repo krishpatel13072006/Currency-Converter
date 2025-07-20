@@ -19,6 +19,11 @@ Welcome to the Currency Converter Web App — a sleek, real-time, and responsive
 <img width="1920" height="1080" alt="Screenshot 2025-07-20 134329" src="https://github.com/user-attachments/assets/a8ddbd37-9af5-4f10-96a0-d7915952e9e6" />
 
 
+
+https://github.com/user-attachments/assets/b982e464-d750-445a-9aa2-bc2866903f7c
+
+
+
 ⚙️ Tech Stack
 HTML5
 CSS3 (with animation & gradients)
